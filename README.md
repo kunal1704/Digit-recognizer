@@ -11,7 +11,7 @@ Offers a clear and concise code structure for easy understanding.
 Provides visualizations for model performance analysis.
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/mnist-cnn
+Clone the repository
 Install dependencies like pandas, numpy, matplotlib, sklearn, tensorflow, keras
 Additional Information:
 
